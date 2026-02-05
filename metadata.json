@@ -1,0 +1,8 @@
+{
+  "name": "Pam Pam",
+  "description": "A comprehensive Warehouse Management System featuring inventory tracking, scanning workflows, and real-time operational dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
